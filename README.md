@@ -21,6 +21,8 @@
   <img alt="dev.finances" src=".github/jobscalc.png" width="100%">
 </p>
 
+## Projeto criado durante a maratona discover 2 da rocketseat
+
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
